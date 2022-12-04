@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="288"
+   height="96"
+   viewBox="0 0 288 96"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="tileset_grass.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="5"
+     inkscape:cx="130.4"
+     inkscape:cy="37.3"
+     inkscape:window-width="1904"
+     inkscape:window-height="989"
+     inkscape:window-x="8"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g13658"
+       inkscape:label="B0">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect10835"
+         width="32"
+         height="32"
+         x="0"
+         y="32" />
+      <path
+         style="fill:#422433;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 19.658062,49.275381 C 16.580959,50.951014 12.88063,47.492808 9.4757742,46.666214 6.9439761,46.051571 2.6012931,47.415729 1.8575981,44.91879 c -0.646264,-2.16982 2.822993,-3.64291 4.710449,-4.893225 2.9413761,-1.948468 6.4254959,-4.479655 9.8846679,-3.785144 2.590231,0.52005 5.09814,2.907366 5.734033,5.471618 0.639832,2.580136 -0.194099,6.292046 -2.528686,7.563342 z"
+         id="path12919"
+         sodipodi:nodetypes="sssssss" />
+      <path
+         style="fill:#5b3138;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 19.658062,48.275523 C 16.580959,49.951156 12.88063,46.49295 9.4757742,45.666356 6.9439761,45.051713 2.6012931,46.415871 1.8575981,43.918932 c -0.646264,-2.16982 2.822993,-3.64291 4.710449,-4.893225 2.9413761,-1.948468 6.4254959,-4.479655 9.8846679,-3.785144 2.590231,0.52005 5.09814,2.907366 5.734033,5.471618 0.639832,2.580136 -0.194099,6.292046 -2.528686,7.563342 z"
+         id="path12089"
+         sodipodi:nodetypes="sssssss" />
+      <path
+         style="fill:#422433;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.93136,60.03516 c -1.411689,-2.181209 1.888512,-5.586573 4.3271,-6.483136 2.646592,-0.973037 7.761672,-0.476429 8.135473,2.318482 0.244986,1.831757 -3.012403,2.224812 -4.745208,2.86726 -2.44586,0.906818 -6.30004,3.487312 -7.717365,1.297394 z"
+         id="path12921"
+         sodipodi:nodetypes="sssss" />
+      <path
+         style="fill:#5b3138;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 16.93136,59.035302 c -1.411689,-2.181209 1.888512,-5.586573 4.3271,-6.483136 2.646592,-0.973037 7.761672,-0.476429 8.135473,2.318482 0.244986,1.831757 -3.012403,2.224812 -4.745208,2.86726 -2.44586,0.906818 -6.30004,3.487312 -7.717365,1.297394 z"
+         id="path12880"
+         sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       id="g13663"
+       inkscape:label="C0">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect11359"
+         width="32"
+         height="32"
+         x="0"
+         y="64" />
+      <path
+         style="fill:#422433;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 3.4010619,84.438025 c 0.395797,2.411263 3.047934,4.217592 5.3639904,4.996522 5.0280667,1.691027 13.3219127,3.066887 15.8332097,-1.605845 1.033107,-1.922287 -1.215754,-4.603725 -3.043123,-5.796713 -2.514035,-1.641275 -7.947551,2.192906 -8.985409,-0.624364 -1.444168,-3.920201 10.372588,-4.843857 8.951357,-8.772431 C 20.241438,69.097981 13.579685,69.927485 10.273446,71.72141 6.0384099,74.019289 2.6206099,79.683378 3.4010619,84.438025 Z"
+         id="path13651"
+         sodipodi:nodetypes="ssssssss" />
+      <path
+         style="fill:#5b3138;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 3.4010619,83.437539 c 0.395797,2.411263 3.047934,4.217592 5.3639904,4.996522 5.0280667,1.691027 13.3219127,3.066887 15.8332097,-1.605845 1.033107,-1.922287 -1.215754,-4.603725 -3.043123,-5.796713 -2.514035,-1.641275 -7.947551,2.192906 -8.985409,-0.624364 -1.444168,-3.920201 10.372588,-4.843857 8.951357,-8.772431 -1.279649,-3.537213 -7.941402,-2.707709 -11.247641,-0.913784 -4.2350361,2.297879 -7.6528361,7.961968 -6.8723841,12.716615 z"
+         id="path13649"
+         sodipodi:nodetypes="ssssssss" />
+    </g>
+    <g
+       id="g13666"
+       inkscape:label="A0"
+       style="fill:#8e5252;fill-opacity:1">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect10830"
+         width="32"
+         height="32"
+         x="-64"
+         y="0"
+         transform="translate(64)"
+         inkscape:label="Base" />
+    </g>
+    <g
+       id="g10828"
+       transform="translate(64)"
+       inkscape:label="A2">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect949"
+         width="32"
+         height="32"
+         x="0"
+         y="0"
+         inkscape:label="Base" />
+      <g
+         id="g9349"
+         style="fill:#8e5252;fill-opacity:1"
+         transform="translate(0,6)"
+         inkscape:label="ShadeTop">
+        <rect
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect9345"
+           width="32"
+           height="10"
+           x="0.00045623779"
+           y="4" />
+        <path
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,14 c 0,0 4.8882639,0.203438 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.903918 8,-2 8,-2"
+           id="path9347"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g8617"
+         style="fill:#14a02e;fill-opacity:1"
+         transform="translate(0,3)"
+         inkscape:label="GrassLow">
+        <rect
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect8613"
+           width="32"
+           height="2"
+           x="0.00045623779"
+           y="5" />
+        <path
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,7 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path8615"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g8611"
+         style="fill:#59c135;fill-opacity:1"
+         transform="translate(0,4)"
+         inkscape:label="GrassTop">
+        <rect
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect8607"
+           width="32"
+           height="8"
+           x="0.00045623779"
+           y="-4" />
+        <path
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,4 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.8714967 8,2 8,2 0,0 4.680343,-0.083395 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path8609"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+    </g>
+    <g
+       id="g20813"
+       transform="translate(128)"
+       inkscape:label="A4">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect20793"
+         width="32"
+         height="24"
+         x="0"
+         y="8"
+         inkscape:label="Base" />
+      <g
+         id="g20799"
+         style="fill:#8e5252;fill-opacity:1"
+         transform="translate(0,6)"
+         inkscape:label="ShadeTop">
+        <rect
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20795"
+           width="32"
+           height="10"
+           x="0.00045623779"
+           y="4" />
+        <path
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,14 c 0,0 4.8882639,0.203438 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.903918 8,-2 8,-2"
+           id="path20797"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20805"
+         style="fill:#14a02e;fill-opacity:1"
+         transform="translate(0,3)"
+         inkscape:label="GrassLow">
+        <rect
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20801"
+           width="32"
+           height="2"
+           x="0.00045623779"
+           y="5" />
+        <path
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,7 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20803"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20811"
+         style="fill:#59c135;fill-opacity:1"
+         transform="translate(0,4)"
+         inkscape:label="GrassTop">
+        <path
+           id="rect20807"
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="M 8 -4 C 3.5680044 -4 0 -0.43199557 0 4 L 32 4 C 32 -0.43199557 28.431996 -4 24 -4 L 8 -4 z " />
+        <path
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,4 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.8714967 8,2 8,2 0,0 4.680343,-0.083395 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20809"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+    </g>
+    <g
+       id="g20838"
+       transform="translate(96)"
+       inkscape:label="A3">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect20818"
+         width="32"
+         height="24"
+         x="0"
+         y="8"
+         inkscape:label="Base" />
+      <g
+         id="g20824"
+         style="fill:#8e5252;fill-opacity:1"
+         transform="translate(0,6)"
+         inkscape:label="ShadeTop">
+        <rect
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20820"
+           width="32"
+           height="10"
+           x="0.00045623779"
+           y="4" />
+        <path
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,14 c 0,0 4.8882639,0.203438 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.903918 8,-2 8,-2"
+           id="path20822"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20830"
+         style="fill:#14a02e;fill-opacity:1"
+         transform="translate(0,3)"
+         inkscape:label="GrassLow">
+        <rect
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20826"
+           width="32"
+           height="2"
+           x="0.00045623779"
+           y="5" />
+        <path
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,7 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20828"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20836"
+         style="fill:#59c135;fill-opacity:1"
+         transform="translate(0,4)"
+         inkscape:label="GrassTop">
+        <path
+           id="path20832"
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="m 0,-4 v 8 h 32 c 0,-4.43199557 -3.568004,-8 -8,-8 z"
+           sodipodi:nodetypes="cccsc" />
+        <path
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,4 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.8714967 8,2 8,2 0,0 4.680343,-0.083395 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20834"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+    </g>
+    <g
+       id="g20860"
+       transform="matrix(-0.99998574,0,0,1,64,0)"
+       inkscape:label="A3"
+       style="stroke-width:1.00001">
+      <rect
+         style="fill:#8e5252;fill-opacity:1;stroke:none;stroke-width:16.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="rect20840"
+         width="32"
+         height="24"
+         x="0"
+         y="8"
+         inkscape:label="Base" />
+      <g
+         id="g20846"
+         style="fill:#8e5252;fill-opacity:1;stroke-width:1.00001"
+         transform="translate(0,6)"
+         inkscape:label="ShadeTop">
+        <rect
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:16.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20842"
+           width="32"
+           height="10"
+           x="0.00045623779"
+           y="4" />
+        <path
+           style="fill:#9c5a5a;fill-opacity:1;stroke:none;stroke-width:1.00001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,14 c 0,0 4.8882639,0.203438 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.903918 8,-2 8,-2"
+           id="path20844"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20852"
+         style="fill:#14a02e;fill-opacity:1;stroke-width:1.00001"
+         transform="translate(0,3)"
+         inkscape:label="GrassLow">
+        <rect
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:16.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="rect20848"
+           width="32"
+           height="2"
+           x="0.00045623779"
+           y="5" />
+        <path
+           style="fill:#14a02e;fill-opacity:1;stroke:none;stroke-width:1.00001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,7 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.871497 8,2 8,2 0,0 4.680343,-0.08339 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20850"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+      <g
+         id="g20858"
+         style="fill:#59c135;fill-opacity:1;stroke-width:1.00001"
+         transform="translate(0,4)"
+         inkscape:label="GrassTop">
+        <path
+           id="path20854"
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:16.0001;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="m 0,-4 v 8 h 32 c 0,-4.43199557 -3.568004,-8 -8,-8 z"
+           sodipodi:nodetypes="cccsc" />
+        <path
+           style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:1.00001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,4 c 0,0 4.8882639,0.2034383 8,2 3.241527,1.8714967 8,2 8,2 0,0 4.680343,-0.083395 8,-2 3.297682,-1.9039176 8,-2 8,-2"
+           id="path20856"
+           sodipodi:nodetypes="cscsc" />
+      </g>
+    </g>
+  </g>
+</svg>

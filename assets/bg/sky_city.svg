@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1680"
+   height="720"
+   viewBox="0 0 1680 720"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="sky_city.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="0.64052328"
+     inkscape:cx="847.74436"
+     inkscape:cy="336.44367"
+     inkscape:window-width="1904"
+     inkscape:window-height="989"
+     inkscape:window-x="8"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient922">
+      <stop
+         style="stop-color:#dae0ea;stop-opacity:1;"
+         offset="0"
+         id="stop918" />
+      <stop
+         style="stop-color:#b9bffb;stop-opacity:1;"
+         offset="1"
+         id="stop920" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient922"
+       id="linearGradient924"
+       x1="842.30945"
+       y1="105.56287"
+       x2="842.30945"
+       y2="574.85059"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient924);stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect231"
+       width="1680"
+       height="720"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="g272"
+       style="fill:#b6befb;fill-opacity:1">
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect9804"
+         width="100"
+         height="400"
+         x="-180"
+         y="320"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10744"
+         width="100"
+         height="400"
+         x="-630"
+         y="320"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10746"
+         width="100"
+         height="400"
+         x="-1560"
+         y="320"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10748"
+         width="150"
+         height="300"
+         x="-1370"
+         y="420"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10750"
+         width="150"
+         height="300"
+         x="-910"
+         y="420"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10752"
+         width="150"
+         height="300"
+         x="-430"
+         y="420"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10754"
+         width="80"
+         height="300"
+         x="-1680.0001"
+         y="420"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#b6befb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10809"
+         width="100"
+         height="400"
+         x="-1180"
+         y="320"
+         transform="scale(-1,1)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <g
+       id="g282"
+       style="fill:#afb6fb;fill-opacity:1"
+       transform="translate(6)">
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10754-3"
+         width="100"
+         height="250"
+         x="-775.6322"
+         y="470"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10793"
+         width="100"
+         height="250"
+         x="-335.6322"
+         y="470"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10795"
+         width="100"
+         height="250"
+         x="-115.6322"
+         y="470"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10797"
+         width="100"
+         height="250"
+         x="-1195.6322"
+         y="470"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10799"
+         width="100"
+         height="250"
+         x="-1585.6322"
+         y="470"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10801"
+         width="175"
+         height="150"
+         x="-1010.6322"
+         y="570"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10803"
+         width="175"
+         height="150"
+         x="-1470.6322"
+         y="570"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:#afb6fb;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         id="rect10805"
+         width="175"
+         height="150"
+         x="-550.6322"
+         y="570"
+         transform="scale(-1,1)" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="sky_bg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="2.562093"
+     inkscape:cx="39.030589"
+     inkscape:cy="3.9030589"
+     inkscape:window-width="1904"
+     inkscape:window-height="1064"
+     inkscape:window-x="1928"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#849be4;stroke-width:24;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       d="M 64,104 24,64 64,24 104,64 Z"
+       id="path13230"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path238"
+       style="color:#000000;fill:#96a8e4;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round"
+       d="m 64,12 a 12.0012,12.0012 0 0 0 -8.48438,3.515625 L 33.26758,37.763672 a 79.980789,70.161308 0 0 1 44.88281,-12.216797 79.980789,70.161308 0 0 1 4.48828,0.123047 L 72.48438,15.515625 A 12.0012,12.0012 0 0 0 64,12 Z" />
+  </g>
+</svg>

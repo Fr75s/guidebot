@@ -1,0 +1,33 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://assets/interactive/red_toggle_switch_off_o2.svg" type="Texture" id=1]
+[ext_resource path="res://assets/interactive/red_toggle_switch_on_o2.svg" type="Texture" id=2]
+[ext_resource path="res://scenes/objects/Switch.gd" type="Script" id=3]
+[ext_resource path="res://assets/audio/clickswitch.ogg" type="AudioStream" id=4]
+
+[sub_resource type="SpriteFrames" id=22]
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "switch",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=23]
+extents = Vector2( 20, 30 )
+
+[node name="Switch" type="Area2D"]
+script = ExtResource( 3 )
+
+[node name="SwitchSprites" type="AnimatedSprite" parent="."]
+scale = Vector2( 0.5, 0.5 )
+frames = SubResource( 22 )
+animation = "switch"
+
+[node name="SwitchCollision" type="CollisionShape2D" parent="."]
+shape = SubResource( 23 )
+
+[node name="SwitchAudio" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 4 )
+
+[connection signal="input_event" from="." to="." method="_on_Switch_input_event"]

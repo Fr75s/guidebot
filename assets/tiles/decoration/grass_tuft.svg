@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="grass_tuft.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="0.90583671"
+     inkscape:cx="49.677828"
+     inkscape:cy="36.982383"
+     inkscape:window-width="948"
+     inkscape:window-height="491"
+     inkscape:window-x="964"
+     inkscape:window-y="536"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#9cdb43;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 0,128 16,-24 16,24 z"
+       id="path642"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#9cdb43;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 32,128 16,-16 16,16 z"
+       id="path1300"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#9cdb43;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 64,128 80,96 96,128 Z"
+       id="path1302"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#9cdb43;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 96,128 16,-24 16,24 z"
+       id="path1304"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path1306"
+       style="fill:#59c135;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4,122 -4,6 h 32 l -4,-6 z m 28,6 h 32 l -6,-6 H 38 Z m 32,0 h 32 l -3,-6 H 67 Z m 32,0 h 32 l -4,-6 h -24 z" />
+  </g>
+</svg>

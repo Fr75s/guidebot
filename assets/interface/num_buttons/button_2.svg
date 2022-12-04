@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="button_2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="124.45079"
+     inkscape:cy="169.35207"
+     inkscape:window-width="948"
+     inkscape:window-height="989"
+     inkscape:window-x="964"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       id="rect231"
+       width="224"
+       height="224"
+       x="16"
+       y="16"
+       ry="32" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect955"
+       width="224"
+       height="224"
+       x="16"
+       y="16"
+       ry="32" />
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect957"
+       width="224"
+       height="224"
+       x="16"
+       y="16"
+       ry="32" />
+    <g
+       id="g7357"
+       transform="matrix(0.5,0,0,0.5,15.999996,95.999996)"
+       style="fill:#8b93af;fill-opacity:1;stroke-width:1.99998" />
+    <path
+       id="rect3470"
+       style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 15.999996,176 v 32 h 32 c -17.72798,0 -32,-14.27202 -32,-32 z m 223.999994,0 c 0,17.72798 -14.27202,32 -32,32 h 32 z M 208,240 c 17.728,0 32,-14.27202 32,-32 H 15.999996 c 0,17.72798 14.27202,32 32,32 z" />
+    <g
+       id="g4639"
+       transform="translate(-1.8310547e-6,-30.080007)">
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:160px;line-height:1.25;font-family:Outfit;-inkscape-font-specification:'Outfit Heavy';fill:#6d758d;fill-opacity:1"
+         x="82.080002"
+         y="196.96001"
+         id="text3048-3"><tspan
+           sodipodi:role="line"
+           id="tspan3046-6"
+           x="82.080002"
+           y="196.96001"
+           style="font-size:160px;fill:#6d758d;fill-opacity:1">2</tspan></text>
+      <rect
+         style="fill:#6d758d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect4586-7"
+         width="16.22261"
+         height="8.0199041"
+         x="84.16449"
+         y="103.81731" />
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:160px;line-height:1.25;font-family:Outfit;-inkscape-font-specification:'Outfit Heavy';fill:#8b93af;fill-opacity:1"
+         x="82.080002"
+         y="204.96001"
+         id="text780-5"><tspan
+           sodipodi:role="line"
+           id="tspan778-3"
+           x="82.080002"
+           y="204.96001"
+           style="font-size:160px;fill:#8b93af;fill-opacity:1">2</tspan></text>
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect4631-5"
+         width="15.83589"
+         height="12.659084"
+         x="126.88889"
+         y="168.3353" />
+    </g>
+  </g>
+</svg>

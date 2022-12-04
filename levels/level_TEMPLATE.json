@@ -1,0 +1,25 @@
+{
+	"environment": {
+		"bg": "sky_blue"
+	},
+
+	"bots": [
+		[224, 304, false]
+	],
+
+	"interactives": [
+
+	],
+
+	"adjustable_tiles": [
+
+	],
+
+	"terrain": [
+
+	],
+
+	"decoration": [
+
+	]
+}

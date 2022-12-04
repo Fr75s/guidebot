@@ -1,0 +1,49 @@
+{
+	"environment": {
+		"bg": "sky_blue"
+	},
+
+	"bots": [
+		[160, 304, false],
+		[1120, 304, true]
+	],
+
+	"interactives": [
+		[0, 640, 416],
+		[1, 640, 192],
+	],
+
+	"adjustable_tiles": [
+		["red_toggle_on", 7, 7, 2, 1],
+		["red_toggle_off", 11, 7, 2, 1],
+	],
+
+	"terrain": [
+		["grass", 7, 1, 6, 2],
+		["grass", 8, 3, 4, 1],
+
+		["grass", 1, 6, 2, 6],
+		["grass", 3, 6, 1, 2],
+		["grass", 17, 6, 2, 6],
+		["grass", 16, 6, 1, 2],
+
+		["grass", 5, 7, 2, 2],
+		["grass", 9, 7, 2, 2],
+		["grass", 13, 7, 2, 2],
+	],
+
+	"decoration": [
+		["grass_1", 11, 0, 2, 1],
+
+		["grass_1", 1, 5, 1, 1],
+		["grass_1", 6, 6, 1, 1],
+		["grass_1", 14, 6, 1, 1],
+		["grass_1", 17, 5, 1, 1],
+
+		["grass_2", 8, 0, 1, 1],
+		["grass_2", 10, 0, 1, 1],
+		["grass_2", 18, 5, 1, 1],
+
+		["grass_3", 8, 4, 4, 8]
+	]
+}

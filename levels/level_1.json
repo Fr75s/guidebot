@@ -1,0 +1,38 @@
+{
+	"environment": {
+		"bg": "sky_blue"
+	},
+
+	"bots": [
+		[224, 304, false]
+	],
+
+	"interactives": [
+		[0, 1056, 352],
+		[1, 640, 448]
+	],
+
+	"adjustable_tiles": [
+		["red_toggle_off", 6, 6, 2, 1],
+		["red_toggle_on", 12, 6, 2, 1]
+	],
+
+	"terrain": [
+		["grass", 1, 6, 5, 2],
+		["grass", 8, 6, 4, 2],
+		["grass", 14, 6, 5, 2]
+	],
+
+	"decoration": [
+		["grass_1", 1, 5, 1, 1],
+		["grass_1", 3, 5, 2, 1],
+
+		["grass_1", 11, 5, 1, 1],
+
+		["grass_1", 15, 5, 1, 1],
+		["grass_1", 17, 5, 1, 1],
+
+		["grass_2", 9, 5, 1, 1],
+		["grass_2", 18, 5, 1, 1],
+	]
+}

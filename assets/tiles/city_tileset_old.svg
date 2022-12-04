@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="city_tileset_old.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="220.61732"
+     inkscape:cy="210.71782"
+     inkscape:window-width="948"
+     inkscape:window-height="989"
+     inkscape:window-x="964"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6651">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6630"
+         width="128"
+         height="128"
+         x="256"
+         y="384" />
+      <path
+         id="path6632"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,392 h 127.99999 v 24 L 320,424 256,416 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6634"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,424 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6636"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,424 64,8 63.99999,-8 v 8 L 320,440 256,432 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6638"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,416 64,8 63.99999,-8 v 8 L 320,432 256,424 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6640"
+         width="127.99999"
+         height="8"
+         x="256"
+         y="384" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6642"
+         width="128"
+         height="8"
+         x="256"
+         y="504" />
+    </g>
+    <g
+       id="g6666">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect1695"
+         width="128"
+         height="128"
+         x="0"
+         y="384" />
+      <path
+         id="rect1685"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,392 h 127.99999 v 24 L 64,424 0,416 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path5017"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,424 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path5015"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,424 64,8 63.99999,-8 v 8 L 64,440 0,432 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect1689"
+         width="127.99999"
+         height="8"
+         x="0"
+         y="384" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect5829"
+         width="128"
+         height="8"
+         x="0"
+         y="504" />
+      <rect
+         style="fill:#849be4;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6653"
+         width="8"
+         height="32"
+         x="120"
+         y="392" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6655"
+         width="8"
+         height="32"
+         x="0"
+         y="392" />
+      <path
+         id="rect1687"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,416 64,8 63.99999,-8 v 8 L 64,432 0,424 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g6713">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6684"
+         width="128"
+         height="128"
+         x="256"
+         y="0" />
+      <path
+         id="path6686"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="M 256,8 H 383.99999 V 32 L 320,40 256,32 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6688"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,40 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6690"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,40 64,8 63.99999,-8 v 8 L 320,56 256,48 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6692"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 256,32 64,8 63.99999,-8 v 8 L 320,48 256,40 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6694"
+         width="127.99999"
+         height="8"
+         x="256"
+         y="0" />
+    </g>
+    <g
+       id="g6752">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6715"
+         width="128"
+         height="128"
+         x="128"
+         y="384" />
+      <path
+         id="path6717"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,392 h 127.99999 v 24 L 192,424 128,416 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6719"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,424 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6721"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,424 64,8 63.99999,-8 v 8 L 192,440 128,432 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6723"
+         width="127.99999"
+         height="8"
+         x="128"
+         y="384" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6725"
+         width="128"
+         height="8"
+         x="128"
+         y="504" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6729"
+         width="8"
+         height="32"
+         x="128"
+         y="392" />
+      <path
+         id="path6731"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,416 64,8 63.99999,-8 v 8 L 192,432 128,424 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g6791">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6754"
+         width="128"
+         height="128"
+         x="384"
+         y="384" />
+      <path
+         id="path6756"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,392 h 127.99999 v 24 L 448,424 384,416 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6758"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,424 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6760"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,424 64,8 63.99999,-8 v 8 L 448,440 384,432 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6762"
+         width="127.99999"
+         height="8"
+         x="384"
+         y="384" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6764"
+         width="128"
+         height="8"
+         x="384"
+         y="504" />
+      <rect
+         style="fill:#849be4;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6766"
+         width="8"
+         height="32"
+         x="504"
+         y="392" />
+      <path
+         id="path6770"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,416 64,8 63.99999,-8 v 8 L 448,432 384,424 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g6856">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6793"
+         width="128"
+         height="128"
+         x="128"
+         y="0" />
+      <path
+         id="path6795"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="M 128,8 H 255.99999 V 32 L 192,40 128,32 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6797"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,40 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6799"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,40 64,8 63.99999,-8 v 8 L 192,56 128,48 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6801"
+         width="127.99999"
+         height="8"
+         x="128"
+         y="0" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6805"
+         width="8"
+         height="32"
+         x="128"
+         y="8" />
+      <path
+         id="path6807"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 128,32 64,8 63.99999,-8 v 8 L 192,48 128,40 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <g
+       id="g6865">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6811"
+         width="128"
+         height="128"
+         x="384"
+         y="0" />
+      <path
+         id="path6813"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="M 384,8 H 511.99999 V 32 L 448,40 384,32 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6815"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,40 64,8 64,-8 v 48 l -64,8 -64,-8 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6817"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,40 64,8 63.99999,-8 v 8 L 448,56 384,48 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6819"
+         width="127.99999"
+         height="8"
+         x="384"
+         y="0" />
+      <rect
+         style="fill:#849be4;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6823"
+         width="8"
+         height="32"
+         x="504"
+         y="8" />
+      <path
+         id="path6825"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 384,32 64,8 63.99999,-8 v 8 L 448,48 384,40 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect6845"
+       width="128"
+       height="128"
+       x="128"
+       y="128" />
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect6847"
+       width="128"
+       height="128"
+       x="384"
+       y="128" />
+    <g
+       id="g6895">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6867"
+         width="128"
+         height="128"
+         x="128"
+         y="256" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6877"
+         width="128"
+         height="8"
+         x="128"
+         y="376" />
+    </g>
+    <g
+       id="g6901"
+       transform="translate(128)">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6897"
+         width="128"
+         height="128"
+         x="128"
+         y="256" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6899"
+         width="128"
+         height="8"
+         x="128"
+         y="376" />
+    </g>
+    <g
+       id="g6907"
+       transform="translate(256)">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6903"
+         width="128"
+         height="128"
+         x="128"
+         y="256" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6905"
+         width="128"
+         height="8"
+         x="128"
+         y="376" />
+    </g>
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect6909"
+       width="128"
+       height="128"
+       x="256"
+       y="128" />
+    <g
+       id="g6948">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6911"
+         width="128"
+         height="128"
+         x="0"
+         y="0" />
+      <path
+         id="path6913"
+         style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+         d="M 0,8 H 127.99999 V 32 L 64,40 0,32 Z"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path6915"
+         style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,40 64,8 64,-8 V 88 L 64,96 0,88 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         id="path6917"
+         style="fill:#588dbe;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,40 64,8 63.99999,-8 v 8 L 64,56 0,48 Z"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6919"
+         width="127.99999"
+         height="8"
+         x="0"
+         y="0" />
+      <rect
+         style="fill:#849be4;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6923"
+         width="8"
+         height="32"
+         x="120"
+         y="8" />
+      <rect
+         style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6925"
+         width="8"
+         height="32"
+         x="0"
+         y="8" />
+      <path
+         id="path6927"
+         style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+         d="m 0,32 64,8 63.99999,-8 v 8 L 64,48 0,40 Z"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect6950"
+       width="128"
+       height="128"
+       x="0"
+       y="128" />
+    <g
+       id="g6956"
+       transform="translate(-128)">
+      <rect
+         style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6952"
+         width="128"
+         height="128"
+         x="128"
+         y="256" />
+      <rect
+         style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+         id="rect6954"
+         width="128"
+         height="8"
+         x="128"
+         y="376" />
+    </g>
+  </g>
+</svg>

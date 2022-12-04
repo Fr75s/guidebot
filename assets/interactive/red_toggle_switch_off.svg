@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="red_toggle_switch_off.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="4"
+     inkscape:cx="65.25"
+     inkscape:cy="65.625"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#6d758d;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="rect231"
+       width="80"
+       height="120"
+       x="24"
+       y="4"
+       ry="16" />
+    <g
+       id="g7353"
+       transform="matrix(0.46875,0,0,0.46875,24,4)"
+       style="stroke-width:2.13332;fill:#8b93af;fill-opacity:1">
+      <path
+         id="rect1828"
+         style="fill:#8b93af;fill-opacity:1;stroke-width:8.53332;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="M 32,0 C 14.272018,0 0,14.272018 0,32 h 170.66667 c 0,-17.727982 -14.27202,-32 -32,-32 z"
+         sodipodi:nodetypes="sccss" />
+      <path
+         id="path1941"
+         style="fill:#8b93af;fill-opacity:1;stroke-width:8.53332;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="M 0,32 V 64 C 0,46.272036 14.272036,32 32,32 Z m 138.66667,0 c 17.72796,0 32,14.272036 32,32 V 32 Z"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+    <g
+       id="g2629"
+       transform="matrix(-0.46875,0,0,-0.46875,104,124)"
+       style="stroke-width:2.13332;fill:#4a5462;fill-opacity:1">
+      <path
+         id="path2625"
+         style="fill:#4a5462;fill-opacity:1;stroke-width:8.53332;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="M 32,0 C 14.272018,0 0,14.272018 0,32 h 170.66667 c 0,-17.727982 -14.27202,-32 -32,-32 z"
+         sodipodi:nodetypes="sccss" />
+      <path
+         id="path2627"
+         style="fill:#4a5462;fill-opacity:1;stroke-width:8.53332;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         d="M 0,32 V 64 C 0,46.272036 14.272036,32 32,32 Z m 138.66667,0 c 17.72796,0 32,14.272036 32,32 V 32 Z"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+  </g>
+  <rect
+     style="fill:#060608;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="rect3409"
+     width="32"
+     height="80"
+     x="48"
+     y="24"
+     ry="16" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <circle
+     style="fill:#b4202a;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+     id="path3465"
+     cx="64"
+     cy="88"
+     r="12" />
+  <path
+     id="circle6408"
+     style="fill:#73172d;fill-opacity:1;stroke-width:4.00002;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+     d="m 52,88 a 12,12 0 0 0 11.999999,12 12,12 0 0 0 12,-12 12,8 0 0 1 -12,8 A 12,8 0 0 1 52,88 Z" />
+</svg>

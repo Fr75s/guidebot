@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="single_city_tile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="2"
+     inkscape:cx="98.5"
+     inkscape:cy="20.75"
+     inkscape:window-width="1904"
+     inkscape:window-height="989"
+     inkscape:window-x="8"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#b3b9d1;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect1695"
+       width="128"
+       height="128"
+       x="0"
+       y="0" />
+    <path
+       id="rect1685"
+       style="fill:#b9bffb;stroke-width:4;paint-order:markers stroke fill"
+       d="M 0,8 H 127.99999 V 32 L 64,40 0,32 Z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       id="path5017"
+       style="fill:#bdc3dd;fill-opacity:1;stroke-width:4;paint-order:markers stroke fill"
+       d="m 0,40 64,8 64,-8 v 48.000003 l -64,8 -64,-8 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path5015"
+       style="fill:#588dbe;stroke-width:4;paint-order:markers stroke fill;fill-opacity:1"
+       d="m 0,40 64,8 63.99999,-8 v 8 L 64,56 0,48 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="rect1687"
+       style="fill:#849be4;stroke-width:4;paint-order:markers stroke fill"
+       d="m 0,32 64,8 63.99999,-8 v 8 L 64,48 0,40 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="fill:#e3e6ff;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect1689"
+       width="127.99999"
+       height="8"
+       x="0"
+       y="0" />
+    <rect
+       style="fill:#8b93af;fill-opacity:1;stroke:none;stroke-width:4;paint-order:markers stroke fill"
+       id="rect5829"
+       width="128"
+       height="8"
+       x="0"
+       y="120" />
+  </g>
+</svg>

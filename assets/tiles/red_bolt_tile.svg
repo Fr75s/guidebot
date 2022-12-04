@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="red_bolt_tile.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="1000px"
+     scale-x="1"
+     inkscape:zoom="2"
+     inkscape:cx="108.75"
+     inkscape:cy="94.75"
+     inkscape:window-width="1904"
+     inkscape:window-height="989"
+     inkscape:window-x="8"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7366">
+      <rect
+         style="fill:#b4202a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+         id="rect492"
+         width="256"
+         height="256"
+         x="0"
+         y="0"
+         ry="32" />
+      <g
+         id="g7353">
+        <path
+           id="rect1828"
+           style="fill:#df3e23;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="M 32 0 C 14.272018 0 1.9806359e-16 14.272018 0 32 L 256 32 C 256 14.272018 241.72798 1.9806359e-16 224 0 L 32 0 z " />
+        <path
+           id="path1941"
+           style="fill:#df3e23;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="M 0 32 L 0 64 C 0 46.272036 14.272036 32 32 32 L 0 32 z M 224 32 C 241.72796 32 256 46.272036 256 64 L 256 32 L 224 32 z " />
+      </g>
+      <g
+         id="g7357">
+        <path
+           id="path1937"
+           style="fill:#73172d;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="m 224,256 c 17.72798,0 32,-14.27202 32,-32 H 0 c 0,17.72798 14.27202,32 32,32 z" />
+        <path
+           id="path2092"
+           style="fill:#73172d;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="m 256,224 v -32 c 0,17.72796 -14.27204,32 -32,32 z M 32,224 C 14.27204,224 0,209.72796 0,192 v 32 z" />
+      </g>
+    </g>
+    <g
+       id="g7349">
+      <circle
+         style="fill:#060608;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="circle3600"
+         cx="128"
+         cy="128"
+         r="96" />
+      <g
+         id="g7258"
+         transform="matrix(0.83333333,0,0,0.83333333,21.333333,21.333333)"
+         style="stroke-width:1.20001">
+        <circle
+           style="fill:#dae0ea;fill-opacity:1;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           id="path2872"
+           cx="128"
+           cy="128"
+           r="96" />
+        <path
+           id="circle6408"
+           style="fill:#b3b9d1;fill-opacity:1;stroke-width:4.8;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+           d="m 32,128 a 96,96 0 0 0 96,96 96,96 0 0 0 96,-96 96,64 0 0 1 -96,64 96,64 0 0 1 -96,-64 z" />
+      </g>
+      <path
+         style="fill:none;stroke:#060608;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="M 65.087,65.899979 191.01626,191.82899"
+         id="path6476"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g7378">
+      <g
+         id="g7342"
+         transform="translate(0,2)">
+        <circle
+           style="fill:#060608;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7324"
+           cx="36"
+           cy="38"
+           r="12" />
+        <circle
+           style="fill:#060608;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7326"
+           cx="220"
+           cy="38"
+           r="12" />
+        <circle
+           style="fill:#060608;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7328"
+           cx="36"
+           cy="222"
+           r="12" />
+        <circle
+           style="fill:#060608;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7330"
+           cx="220"
+           cy="222"
+           r="12" />
+      </g>
+      <g
+         id="g7336">
+        <circle
+           style="fill:#dae0ea;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="path7260"
+           cx="36"
+           cy="36"
+           r="12" />
+        <circle
+           style="fill:#dae0ea;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7318"
+           cx="220"
+           cy="36"
+           r="12" />
+        <circle
+           style="fill:#dae0ea;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7320"
+           cx="36"
+           cy="220"
+           r="12" />
+        <circle
+           style="fill:#dae0ea;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="circle7322"
+           cx="220"
+           cy="220"
+           r="12" />
+      </g>
+    </g>
+  </g>
+</svg>
